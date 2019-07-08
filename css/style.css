@@ -45,6 +45,10 @@ body{
     text-align: center;
 }
 
+.brand h2:hover{
+    background-color: rgba(0,40,55,0.44);
+}
+
 .search{
     display: flex;
     height: 5vh;
